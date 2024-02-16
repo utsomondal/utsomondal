@@ -7,7 +7,7 @@
 - Let's connect and build something epic!
 - Together, let's code the future, line by line.
 
-![](https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/283477112_115319494518803_8667435630860806939_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeErZK9CiL-uZnOB5cJxUpxI8oP4i3ggHH3yg_iLeCAcfdtvXhQIDT2Kl_kasSlN56I0WFjc8rlC2Va1gdCKo7wI&_nc_ohc=G2XvbNCSsYUAX_m05cv&_nc_ht=scontent.fdac24-3.fna&oh=00_AfDW1Eq9rzvjJ8kHl5tF1Lh35_vJTsC-glTyo74IrkEU0w&oe=65D3DABB)
+![](https://drive.google.com/file/d/1KEoa_d58qLEvxjdJJFQivDD2Ytx04VCP/view?usp=sharing)
 
 
 ## 🌐 Socials:
