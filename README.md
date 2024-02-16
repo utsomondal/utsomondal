@@ -7,7 +7,7 @@
 - Let's connect and build something epic!
 - Together, let's code the future, line by line.
 
-![]([https://drive.google.com/file/d/1KEoa_d58qLEvxjdJJFQivDD2Ytx04VCP/view?usp=sharing](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/427729185_398725426178207_9153909343763874540_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeFssnm9sCup9ffm2LG8VzKdmFbnSTR9GbiYVudJNH0ZuMwaLuLMY0Cgz8O8FvPB_NVpw2VC2EwlbI2AMTi9yFlF&_nc_ohc=OJQeflkkR9sAX9EGDQf&_nc_ht=scontent.fdac24-2.fna&oh=00_AfCzaf1OC3rb-dr7cAZLYJV7rZNbrYOmUj5YIYNyB1VR5g&oe=65D3DF18))
+![](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/427729185_398725426178207_9153909343763874540_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeFssnm9sCup9ffm2LG8VzKdmFbnSTR9GbiYVudJNH0ZuMwaLuLMY0Cgz8O8FvPB_NVpw2VC2EwlbI2AMTi9yFlF&_nc_ohc=OJQeflkkR9sAX9EGDQf&_nc_ht=scontent.fdac24-2.fna&oh=00_AfCzaf1OC3rb-dr7cAZLYJV7rZNbrYOmUj5YIYNyB1VR5g&oe=65D3DF18)
 
 
 ## 🌐 Socials:
