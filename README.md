@@ -1,32 +1,93 @@
-# 💫 About Me:
-- Hello, I'm Utso Mondal.
-- WUB CSE student, Programming Hero trainee.
-- Beyond syntax, I find inspiration in a steamy cup of chai.
-- Full-Stack focused, future driven.
-- Explore my skills, discover my aspirations.
-- Let's connect and build something epic!
-- Together, let's code the future, line by line.
+<a href="https://web.programming-hero.com">
+<img src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/banner.png" />
+</a>
 
-![](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/427729185_398725426178207_9153909343763874540_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeFssnm9sCup9ffm2LG8VzKdmFbnSTR9GbiYVudJNH0ZuMwaLuLMY0Cgz8O8FvPB_NVpw2VC2EwlbI2AMTi9yFlF&_nc_ohc=OJQeflkkR9sAX9EGDQf&_nc_ht=scontent.fdac24-2.fna&oh=00_AfCzaf1OC3rb-dr7cAZLYJV7rZNbrYOmUj5YIYNyB1VR5g&oe=65D3DF18)
+## :muscle: Our Mission_
 
+<br />
+<br />
+<br />
+<h3 align="center">Our mission is to provide personalized learning, develop skills, <br/> and empower individuals to kick-start their careers.</h3>
+<br />
+<br />
+<br />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/utsomondal2019) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utsomondal) 
+## :chart_with_upwards_trend: Our Impacts_
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=utsomondal&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=utsomondal&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=utsomondal&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://web.programming-hero.com">
+<img src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/impacts.png" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=utsomondal&theme=chalk&no-frame=true&no-bg=false&margin-w=4)
+<br/>
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## :mailbox: Contact with us
 
----
-[![](https://visitcount.itsvg.in/api?id=utsomondal&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+***<p align="center"> [<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/website.png">](https://web.programming-hero.com)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/facebook.png">](https://www.facebook.com/programmingherowebcourse)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/linkedin.png">](https://www.linkedin.com/company/programminghero/mycompany/) </p>***
+
+<br/>
+<br/>
+
+## :zap: X-Factors Of Programming Hero_
+
+<p align="center">
+<img height="237" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/career.png"/>
+<img height="237" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/support.png"/>
+<img height="237" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/job.png"/>
+<img height="237" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/utils.png"/>
+<img height="237" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/project.png"/>
+<img height="237" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/live.png"/>
+</p>
+
+<br />
+
+<p align="center">
+<a href="https://web.programming-hero.com">
+<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/explore.png"/>
+</a>
+</p>
+
+<br/>
+<br/>
+
+## :bulb: What You Will Learn_
+
+<p align="center">
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/HTML.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/CSS.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Tailwind.png"/>
+</p>
+<p align="center">
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/React.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/ReactRouterDom.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Firebase.png"/>
+</p>
+<p align="center">
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Nodejs.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Express.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/MongoDB.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JWT.png"/>
+</p>
+
+<br />
+
+<p align="center">
+<a href="https://web.programming-hero.com/course-details">
+<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/curriculum.png"/>
+</a>
+</p>
+
+<br/>
+<br/>
+
+## :globe_with_meridians: Our community_
+
+***<p align="center"> [<img width="350" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/community-fb.png">](https://www.facebook.com/groups/programmingherocommunity/)[<img width="350" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/community-yt.png">](https://www.youtube.com/@ProgrammingHeroCommunity) </p>***
+
+<br/>
+<br/>
