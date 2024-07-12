@@ -1,10 +1,8 @@
 <img src="https://your-banner-image-url" alt="Banner Image" width="100%" />
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
-  <div>
     <h1 style="margin: 0;">Hi 👋, I'm Utso Mondal</h1>
     <h3 style="margin: 0;">Aspiring Data Analyst 📊 | Exploring SQL, Python, and Data Visualization 💻🔍</h3>
-  </div>
 </div>
 
 - 🌱 I’m currently learning **Data Analysis with SQL and Python**
