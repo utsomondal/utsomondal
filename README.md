@@ -19,25 +19,32 @@
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+  </a>
+  &nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
+  </a>
+  &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
+  </a>
+  &nbsp;
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>  
+  </a>
+  &nbsp;
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://repository-images.githubusercontent.com/494693871/90014e0e-88a9-4cb4-9fcd-2f6bb2570578" alt="powerbi" width="40" height="40"/> 
-  </a> 
+  </a>
+  &nbsp;
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/> 
-  </a> 
+  </a>
+  &nbsp;
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/288276?v=4" alt="numpy" width="40" height="40"/> 
-  </a>  
+  </a>
+  &nbsp;
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utsomondal&show_icons=true&locale=en" alt="utsomondal" /></p>
