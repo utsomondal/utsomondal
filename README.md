@@ -1,8 +1,14 @@
-<div style="display: flex; align-items: center;">
-  <img src="https://i.postimg.cc/zvW4yxPd/Firefly-20240306175311.png" alt="Utso Mondal" width="150" height="150" style="border-radius: 50%; margin-right: 20px;"/>
-  <h1 style="margin: 0;">Hi 👋, I'm Utso Mondal</h1>
-</div>
-<h3 style="margin: 0;">Aspiring Data Analyst 📊 | Exploring SQL, Python, and Data Visualization 💻🔍</h3>
+<table>
+  <tr>
+    <td>
+      <img src="https://i.postimg.cc/zvW4yxPd/Firefly-20240306175311.png" alt="Utso Mondal" width="150" height="150" style="border-radius: 50%;"/>
+    </td>
+    <td>
+      <h1 style="margin: 0;">Hi 👋, I'm Utso Mondal</h1>
+      <h3 style="margin: 0;">Aspiring Data Analyst 📊 | Exploring SQL, Python, and Data Visualization 💻🔍</h3>
+    </td>
+  </tr>
+</table>
 
 - 🌱 I’m currently learning **Data Analysis with SQL and Python**
 
