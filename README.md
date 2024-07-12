@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" alt="Banner Image" height="500px" width="100%" />
+<img src="https://synder.com/blog/wp-content/uploads/sites/5/2023/04/data-driven-analytics-and-why-its-important.jpg" alt="Banner Image" height="" width="100%" />
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
     <h1 style="margin: 0;">Hi 👋, I'm Utso Mondal</h1>
