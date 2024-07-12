@@ -1,7 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <div style="flex-shrink: 0;">
-    <img src="https://i.postimg.cc/zvW4yxPd/Firefly-20240306175311.png" alt="Utso Mondal" width="150" height="150" style="border-radius: 50%; margin-right: 20px;"/>
-  </div>
+  <img src="https://i.postimg.cc/zvW4yxPd/Firefly-20240306175311.png" alt="Utso Mondal" width="150" height="150" style="border-radius: 50%; margin-right: 20px;"/>
   <div>
     <h1 style="margin: 0;">Hi 👋, I'm Utso Mondal</h1>
     <h3 style="margin: 0;">Aspiring Data Analyst 📊 | Exploring SQL, Python, and Data Visualization 💻🔍</h3>
@@ -16,16 +14,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/utsomondal" target="blank">
+  <a href="https://linkedin.com/in/utsomondal" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utsomondal" height="30" width="40" />
   </a>
-  <a href="https://kaggle.com/utsomondal" target="blank">
+  <a href="https://kaggle.com/utsomondal" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="utsomondal" height="30" width="40" />
   </a>
-  <a href="https://fb.com/utso.mondal2019" target="blank">
+  <a href="https://fb.com/utso.mondal2019" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="utso.mondal2019" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/utsomondal2019" target="blank">
+  <a href="https://www.hackerrank.com/utsomondal2019" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utsomondal2019" height="30" width="40" />
   </a>
 </p>
