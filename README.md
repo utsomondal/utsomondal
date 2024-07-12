@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Utso Mondal</h1>
+<h1 align="center">
+  <img src="https://i.postimg.cc/zvW4yxPd/Firefly-20240306175311.png" alt="Utso Mondal" width="50" height="50"/>
+  Hi 👋, I'm Utso Mondal
+</h1>
 <h3 align="center">Aspiring Data Analyst 📊 | Exploring SQL, Python, and Data Visualization 💻🔍</h3>
 
 - 🌱 I’m currently learning **Data Analysis with SQL and Python**
