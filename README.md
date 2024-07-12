@@ -2,7 +2,6 @@
   <img src="https://i.postimg.cc/zvW4yxPd/Firefly-20240306175311.png" alt="Utso Mondal" width="150" height="150" style="border-radius: 50%;"/>
   <h1>Hi 👋, I'm Utso Mondal</h1>
   <div style="margin-left: 20px;">
-    
     <h3>Aspiring Data Analyst 📊 | Exploring SQL, Python, and Data Visualization 💻🔍</h3>
   </div>
 </div>
