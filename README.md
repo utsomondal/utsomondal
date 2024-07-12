@@ -1,10 +1,6 @@
 <img src="https://synder.com/blog/wp-content/uploads/sites/5/2023/04/data-driven-analytics-and-why-its-important.jpg" alt="Banner Image" height="" width="100%" />
-
-<div style="display: flex; align-items: center; margin-top: 20px;">
-    <h1 style="margin: 0;">Hi 👋, I'm Utso Mondal</h1>
-    <h3 style="margin: 0;">Aspiring Data Analyst 📊 | Exploring SQL, Python, and Data Visualization 💻🔍</h3>
-</div>
-
+<h1 style="margin: 0;">Hi 👋, I'm Utso Mondal</h1>
+<h3 style="margin: 0;">Aspiring Data Analyst 📊 | Exploring SQL, Python, and Data Visualization 💻🔍</h3>
 - 🌱 I’m currently learning **Data Analysis with SQL and Python**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://um-insights.netlify.app/)
