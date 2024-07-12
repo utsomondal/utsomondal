@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: ;">
   <img src="https://i.postimg.cc/zvW4yxPd/Firefly-20240306175311.png" alt="Utso Mondal" width="150" height="150" style="border-radius: 50%; margin-right: 20px;"/>
   <h1 style="margin: 0;">Hi 👋, I'm Utso Mondal</h1>
 </div> 
