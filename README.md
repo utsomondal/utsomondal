@@ -1,7 +1,7 @@
 <img src="https://your-banner-image-url" alt="Banner Image" width="100%" />
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
-  <img src="https://i.postimg.cc/zvW4yxPd/Firefly-20240306175311.png" alt="Utso Mondal" width="150" height="150" style="border-radius: 50%; margin-right: 20px;"/>
+  <img src="https://i.postimg.cc/zvW4yxPd/Firefly-20240306175311.png" alt="Utso Mondal" width="150" height="150" style="border-radius: 50%; margin-right: 0px;"/>
   <div>
     <h1 style="margin: 0;">Hi 👋, I'm Utso Mondal</h1>
     <h3 style="margin: 0;">Aspiring Data Analyst 📊 | Exploring SQL, Python, and Data Visualization 💻🔍</h3>
