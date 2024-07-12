@@ -16,12 +16,15 @@
   <a href="https://linkedin.com/in/utsomondal" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utsomondal" height="30" width="40" />
   </a>
+    &nbsp;
   <a href="https://kaggle.com/utsomondal" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="utsomondal" height="30" width="40" />
   </a>
+    &nbsp;
   <a href="https://fb.com/utso.mondal2019" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="utso.mondal2019" height="30" width="40" />
   </a>
+    &nbsp;
   <a href="https://www.hackerrank.com/utsomondal2019" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utsomondal2019" height="30" width="40" />
   </a>
@@ -44,7 +47,7 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a>
-  &nbsp;
+  c
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://repository-images.githubusercontent.com/494693871/90014e0e-88a9-4cb4-9fcd-2f6bb2570578" alt="powerbi" width="40" height="40"/> 
   </a>
@@ -59,4 +62,3 @@
   &nbsp;
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utsomondal&show_icons=true&locale=en" alt="utsomondal" /></p>
