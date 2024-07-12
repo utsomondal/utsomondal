@@ -1,32 +1,21 @@
-# 💫 About Me:
-- Hello, I'm Utso Mondal.
-- WUB CSE student, Programming Hero trainee.
-- Beyond syntax, I find inspiration in a steamy cup of chai.
-- Full-Stack focused, future driven.
-- Explore my skills, discover my aspirations.
-- Let's connect and build something epic!
-- Together, let's code the future, line by line.
+<h1 align="center">Hi 👋, I'm Utso Mondal</h1>
+<h3 align="center">Aspiring Data Analyst 📊 | Exploring SQL, Python, and Data Visualization 💻🔍</h3>
 
-![](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/427729185_398725426178207_9153909343763874540_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeFssnm9sCup9ffm2LG8VzKdmFbnSTR9GbiYVudJNH0ZuMwaLuLMY0Cgz8O8FvPB_NVpw2VC2EwlbI2AMTi9yFlF&_nc_ohc=OJQeflkkR9sAX9EGDQf&_nc_ht=scontent.fdac24-2.fna&oh=00_AfCzaf1OC3rb-dr7cAZLYJV7rZNbrYOmUj5YIYNyB1VR5g&oe=65D3DF18)
+- 🌱 I’m currently learning **Data Analysis with SQL and Python**
 
+- 👨‍💻 All of my projects are available at [https://um-insights.netlify.app/](https://um-insights.netlify.app/)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/utsomondal2019) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utsomondal) 
+- 📫 How to reach me **utsomondal2019@gmail.com**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=utsomondal&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=utsomondal&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=utsomondal&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/utsomondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utsomondal" height="30" width="40" /></a>
+<a href="https://kaggle.com/utsomondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="utsomondal" height="30" width="40" /></a>
+<a href="https://fb.com/utso.mondal2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="utso.mondal2019" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/utsomondal2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utsomondal2019" height="30" width="40" /></a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=utsomondal&theme=chalk&no-frame=true&no-bg=false&margin-w=4)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=utsomondal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Track#Titans.bd@24 -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utsomondal&show_icons=true&locale=en" alt="utsomondal" /></p>
