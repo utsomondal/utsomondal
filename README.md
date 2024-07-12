@@ -1,9 +1,9 @@
-<table>
-  <tr>
-    <td>
-      <img src="URL_TO_YOUR_IMAGE" alt="Utso Mondal" width="150" height="150"/>
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="https://i.postimg.cc/zvW4yxPd/Firefly-20240306175311.png" alt="Utso Mondal" width="150" height="150"/>
     </td>
-    <td>
+    <td style="border: none;">
       <h1>Hi 👋, I'm Utso Mondal</h1>
       <h3>Aspiring Data Analyst 📊 | Exploring SQL, Python, and Data Visualization 💻🔍</h3>
     </td>
