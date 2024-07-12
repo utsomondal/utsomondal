@@ -44,7 +44,7 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a>
-  c
+  &nbsp;
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://repository-images.githubusercontent.com/494693871/90014e0e-88a9-4cb4-9fcd-2f6bb2570578" alt="powerbi" width="40" height="40"/> 
   </a>
