@@ -1,14 +1,10 @@
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <img src="https://i.postimg.cc/zvW4yxPd/Firefly-20240306175311.png" alt="Utso Mondal" width="150" height="150"/>
-    </td>
-    <td style="border: none;">
-      <h1>Hi 👋, I'm Utso Mondal</h1>
-      <h3>Aspiring Data Analyst 📊 | Exploring SQL, Python, and Data Visualization 💻🔍</h3>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+  <img src="https://i.postimg.cc/zvW4yxPd/Firefly-20240306175311.png" alt="Utso Mondal" width="150" height="150" style="border-radius: 50%;"/>
+  <div style="margin-left: 20px;">
+    <h1>Hi 👋, I'm Utso Mondal</h1>
+    <h3>Aspiring Data Analyst 📊 | Exploring SQL, Python, and Data Visualization 💻🔍</h3>
+  </div>
+</div>
 
 - 🌱 I’m currently learning **Data Analysis with SQL and Python**
 
