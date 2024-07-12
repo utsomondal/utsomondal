@@ -1,4 +1,6 @@
-<div style="display: flex; align-items: center;">
+<img src="https://your-banner-image-url" alt="Banner Image" width="100%" />
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
   <img src="https://i.postimg.cc/zvW4yxPd/Firefly-20240306175311.png" alt="Utso Mondal" width="150" height="150" style="border-radius: 50%; margin-right: 20px;"/>
   <div>
     <h1 style="margin: 0;">Hi 👋, I'm Utso Mondal</h1>
@@ -59,3 +61,5 @@
   </a>
   &nbsp;
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utsomondal&show_icons=true&locale=en" alt="utsomondal" /></p>
