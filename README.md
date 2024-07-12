@@ -1,8 +1,14 @@
-<h1 align="center">
-  <img src="https://i.postimg.cc/zvW4yxPd/Firefly-20240306175311.png" alt="Utso Mondal" width="50" height="50"/>
-  Hi 👋, I'm Utso Mondal
-</h1>
-<h3 align="center">Aspiring Data Analyst 📊 | Exploring SQL, Python, and Data Visualization 💻🔍</h3>
+<table>
+  <tr>
+    <td>
+      <img src="URL_TO_YOUR_IMAGE" alt="Utso Mondal" width="150" height="150"/>
+    </td>
+    <td>
+      <h1>Hi 👋, I'm Utso Mondal</h1>
+      <h3>Aspiring Data Analyst 📊 | Exploring SQL, Python, and Data Visualization 💻🔍</h3>
+    </td>
+  </tr>
+</table>
 
 - 🌱 I’m currently learning **Data Analysis with SQL and Python**
 
