@@ -9,14 +9,14 @@ Welcome to my GitHub profile! I am a dedicated and enthusiastic data analyst wit
 - 🌱 I’m currently learning Data Analysis with SQL, Python, and Power BI.
 - 💼 Working as a Data Analyst.
 - 👨‍💻 All of my projects are available at [My Portfolio](https://um-insights.netlify.app/)
-- 📫 How to reach me: **utsomondal2019@gmail.com**
+- 📫 How to reach me: ****
 
 ### 🛠 Skills
 
 - **Data Analysis**: SQL, Python
-- **Data Visualization**: Power BI, Matplotlib, Seaborn
+- **Data Visualization**: Power BI
 - **Web Development**: HTML, CSS, JavaScript (for portfolio projects)
-- **Tools**: Jupyter Notebook, VS Code, Git, GitHub
+- **Tools**: Jupyter Notebook, VS Code, Git, GitHub, DataGrip
 
 ### 📈 Current Projects
 
@@ -26,13 +26,13 @@ Welcome to my GitHub profile! I am a dedicated and enthusiastic data analyst wit
 
 ### 📫 Get in Touch
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [Utso Mondal](https://github.com/yourprofile)
+- **Email**: [utsomondal2019@gmail.com](mailto:utsomondal2019@gmail.com)
+- **LinkedIn**: [My Linkedin](https://www.linkedin.com/in/utsomondal/)
+- **GitHub**: [Utso Mondal](https://github.com/utsomondal)
 
 ### 📊 GitHub Stats
 
-![Utso's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Utso's GitHub stats](https://github-readme-stats.vercel.app/api?username=utsomondal&show_icons=true&theme=radical)
 
 ---
 
