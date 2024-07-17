@@ -1,3 +1,4 @@
+<img src="https://synder.com/blog/wp-content/uploads/sites/5/2023/04/data-driven-analytics-and-why-its-important.jpg" alt="Banner Image" height="" width="100%" />
 # Utso Mondal
 
 ## Data Analyst | SQL | Python | Power BI
