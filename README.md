@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I am a dedicated and enthusiastic data analyst wit
 
 - 🌱 I’m currently learning Data Analysis with SQL, Python, and Power BI.
 - 💼 Working as a Data Analyst.
-- 🌐 Check out my [portfolio website](https://um-insights.netlify.app/).
+- 👨‍💻 All of my projects are available at [My Portfolio](https://um-insights.netlify.app/)
+- 📫 How to reach me: **utsomondal2019@gmail.com**
 
 ### 🛠 Skills
 
