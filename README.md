@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I am a dedicated and enthusiastic data analyst wit
 ### 🛠 Skills
 
 - **Data Analysis**: 
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
+  (https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
 - **Data Visualization**: 
