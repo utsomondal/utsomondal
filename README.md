@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a dedicated and enthusiastic data analyst wit
 
 - 🌱 I’m currently learning Data Analysis with SQL, Python, and Power BI.
 - 💼 Working as a Data Analyst.
-- 🎓 Studying Computer Science and Engineering at the World University of Bangladesh.
+- 🎓 Studying Computer Science and Engineering at the [World University of Bangladesh](https://wub.edu.bd/).
 - 🌐 Check out [My Portfolio](https://um-insights.netlify.app/).
 
 ### 🛠 Skills
@@ -18,11 +18,12 @@ Welcome to my GitHub profile! I am a dedicated and enthusiastic data analyst wit
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter Notebook" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"/>
   <img src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" alt="DataGrip" width="40" height="40"/>
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="40" height="40"/>
 </p>
 
 ### 📈 Current Projects
