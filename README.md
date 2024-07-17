@@ -1,9 +1,8 @@
 <img src="https://synder.com/blog/wp-content/uploads/sites/5/2023/04/data-driven-analytics-and-why-its-important.jpg" alt="Banner Image" width="100%" />
-
-<h1>Hi 👋, I'm Utso Mondal</h1>
+<h1>Hi 👋, I'm Utso Mondal
 <h3>Aspiring Data Analyst 📊 | Exploring SQL, Python, and Data Visualization 💻🔍</h3>
 
-Welcome to my GitHub profile! I am a dedicated and enthusiastic data analyst with a passion for uncovering insights from data. Currently, I am expanding my skills in SQL, Python, and Power BI to enhance my analytical capabilities.
+#### Welcome to my GitHub profile! I am a dedicated and enthusiastic data analyst with a passion for uncovering insights from data. Currently, I am expanding my skills in SQL, Python, and Power BI to enhance my analytical capabilities.
 
 ### 🔍 About Me
 
