@@ -12,9 +12,20 @@ Welcome to my GitHub profile! I am a dedicated and enthusiastic data analyst wit
 
 ### 🛠 Skills
 
-- **Data Analysis**: SQL, Python
-- **Data Visualization**: Power BI
-- **Tools**: Jupyter Notebook, VS Code, Git, GitHub, DataGrip
+- **Data Analysis**: 
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+
+- **Data Visualization**: 
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=flat-square)
+
+- **Tools**: 
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=flat-square)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+  ![DataGrip](https://img.shields.io/badge/-DataGrip-000000?logo=datagrip&logoColor=white&style=flat-square)
+
 
 ### 📈 Current Projects
 
