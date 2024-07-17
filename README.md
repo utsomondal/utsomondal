@@ -13,18 +13,18 @@ Welcome to my GitHub profile! I am a dedicated and enthusiastic data analyst wit
 ### 🛠 Skills
 
 - **Data Analysis**: 
-  (https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
 
 - **Data Visualization**: 
-  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=flat-square)
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
 
 - **Tools**: 
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=flat-square)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-  ![DataGrip](https://img.shields.io/badge/-DataGrip-000000?logo=datagrip&logoColor=white&style=flat-square)
+  <img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter Notebook" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" alt="DataGrip" width="40" height="40"/>
 
 
 ### 📈 Current Projects
