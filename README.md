@@ -32,5 +32,4 @@ Welcome to my GitHub profile! I am a dedicated and enthusiastic data analyst wit
 ![Utso's GitHub stats](https://github-readme-stats.vercel.app/api?username=utsomondal&show_icons=true&theme=radical)
 
 ---
-
-Feel free to explore my repositories to see my work and projects. I am always open to feedback and collaboration opportunities!
+<img src="https://camo.githubusercontent.com/6eb5b9d9812fc7746befadf01f6f7bed922555c353f968a51c709ba8b486e8a8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d38302673656374696f6e3d666f6f746572" alt="Banner Image" height="" width="100%" />
