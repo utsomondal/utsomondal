@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Data Analysis with SQL, Python, and Power BI.
 - 💼 Working as a Data Analyst.
 - 🎓 Studying Computer Science and Engineering at the [World University of Bangladesh](https://wub.edu.bd/).
-- 🌐 Check out [My Portfolio](https://um-insights.netlify.app/).
+- 🌐 Check out [My Portfolio](https://uminsights.netlify.app/).
 
 ### 🛠 Skills
 
