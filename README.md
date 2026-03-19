@@ -53,13 +53,14 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=utsomondal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsomondal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=utsomondal&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=utsomondal&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=10" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utsomondal&theme=tokyonight" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=utsomondal&theme=tokyonight&utcOffset=6" height="160"/>
 
 </div>
 
