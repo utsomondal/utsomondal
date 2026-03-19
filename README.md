@@ -52,26 +52,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=utsomondal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsomondal&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=utsomondal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsomondal&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=utsomondal&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=utsomondal&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=utsomondal&theme=tokyonight&utcOffset=6" height="160"/>
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech | Links |
-|---|---|---|---|
-| 🌍 **Tourify** | Full-stack travel platform with booking & auth | React, Node, Express, MongoDB | [Client](https://github.com/utsomondal/tourify-client) · [Server](https://github.com/utsomondal/tourify-backend) |
-| 🔧 **Car Doctor** | Automotive service booking platform | React, Node, Express, MongoDB | [Client](https://github.com/utsomondal/car-doctor-client) · [Server](https://github.com/utsomondal/car-doctor-server) |
-| 🌐 **Pallibyte** | Professional business website | JavaScript, React | [Repo](https://github.com/utsomondal/pallibyte-website) |
 
 ---
 
@@ -88,5 +79,7 @@
 <div align="center">
 💬 Feel free to reach out — always open to interesting projects and opportunities!
 </div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
