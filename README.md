@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Utso%20Mondal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20to%20Work&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Utso%20Mondal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20MERN%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -10,12 +10,22 @@
 
 ### 👋 Hey there! I'm Utso
 
-🎓 Final year CSE student passionate about building full-stack web apps  
-💼 Actively looking for full-time opportunities  
-🌱 Currently sharpening my skills in **Next.js** & **Backend Architecture**  
-🚀 I love turning ideas into real, deployed products
+🎓 **Final Year CSE Student** at World University of Bangladesh.  
+💡 **Problem Solver:** I don't just build features; I architect systems with clean, maintainable code.  
+🚀 **Full-Stack Focused:** Expert in the JavaScript ecosystem, taking projects from zero to cloud deployment.  
+💼 **Actively looking for full-time and remote opportunities.**
 
 </div>
+
+---
+
+## 🚀 Featured Project: CareerLogr
+**[Live Demo](https://careerlogr.vercel.app) | [Source Code](https://github.com/utsomondal/careerlogr)**
+
+A centralized Job Search Analytics platform built to move beyond spreadsheets. 
+* **Core:** MERN Stack (MongoDB, Express, React, Node.js)
+* **Impact:** Real-time dashboard visualization, secure JWT auth, and a full CRUD pipeline for application tracking.
+* **Architecture:** Focus on high scannability, responsive design with Tailwind CSS, and optimized data aggregation.
 
 ---
 
@@ -24,27 +34,31 @@
 <div align="center">
 
 **Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=5B9FEC)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=5B9FEC)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=5B9FEC)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
 
 **Backend**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=5B9FEC)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 **Tools & Platforms**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=5B9FEC)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=5B9FEC)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
+
+---
+
+## 🏆 Recent Achievements
+* **Top Winner:** Code-Clash Programming Competition 2023 (Intra-Departmental).
+* **Certified Proficiency:** Level-2 English Language Proficiency (WUB).
+* **Open Source:** Actively building and shipping end-to-end MERN projects.
 
 ---
 
@@ -52,7 +66,7 @@
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=utsomondal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=utsomondal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=utsomondal&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
@@ -83,7 +97,7 @@
 </div>
 
 <div align="center">
-💬 Feel free to reach out — always open to interesting projects and opportunities!
+💬 "Good code is its own best documentation, but a great system is the result of thoughtful planning."
 </div>
 
 <br/>
